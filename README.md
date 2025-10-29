@@ -1,27 +1,58 @@
 <!-- README.md -->
-
----
-
-### 🌱 About Me
-- 🎓 I'm a Software Development student at ITU (UNCUYO), Mendoza, Argentina.
-- 💻 Currently working on web development projects (both frontend & backend).
-- 🌎 Exploring data science & cloud computing.
-
----
-
-### 🚀 My Skills
 <p align="center">
-  <img width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5"/>
-  <img width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3"/>
-  <img width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript"/>
-  <img width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java"/>
-  <img width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++"/>
-  <img width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL"/>
-  <img width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" alt="Neo4j"/>
-  <img width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB"/>
-  <img width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/lusalvi/lusalvi@main/assets/banner-dark.png" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/lusalvi/lusalvi@main/assets/banner-light.png" />
+    <img alt="Header - Lucía Salvi" width="100%" />
+  </picture>
 </p>
 
+<!-- FILA 1 — INFO (imagen izq) + TEXTO (der) -->
+<table align="center" border="0" style="border:none!important; border-collapse: collapse; border-spacing: 0; width: 100%;">
+  <tr>
+    <td valign="middle" width="60%" style="border:none;">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/lusalvi/lusalvi@main/assets/info-dark.png" />
+        <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/lusalvi/lusalvi@main/assets/info-light.png" />
+        <img src="https://cdn.jsdelivr.net/gh/lusalvi/lusalvi@main/assets/info-light.png" alt="About me - Lucía Salvi" width="100%">
+      </picture>
+    </td>
+    <td valign="middle" width="40%" style="border:none; padding:0;">
+      <h3>👋 About Me</h3>
+      <p>
+        I’m the kind of developer who learns something new and immediately turns it into a project.
+        Coffee lover ☕ and proud pop music enjoyer 🎧. 
+        I celebrate everytime I beat a bug… even if five new ones appear right after 😌
+      </p>
+      <p>
+        I love creating new things and learning just for the joy of it 📚.
+        Big fan of writing, reading and baking 🎨.
+        I enjoy the journey as much as the result 🚀
+      </p>
+    </td>
+  </tr>
+</table>
+
+<!-- FILA 2 — TEXTO (izq) + SKILLS (imagen der) -->
+<table align="center" style="border-collapse: separate; border-spacing: 8px; width: 100%;">
+  <tr>
+    <td valign="middle" width="30%" style="padding: 4px;">
+      <h3>⚙️ My Projects</h3>
+      <p>• Fleet Tracking System with vanilla HTML, CSS, JavaScript and using Google Maps API</p>
+      <p>• Informational Website about endangered animals</p>
+      <p>• Promotional Website for a fictional client</p>
+      <p>• Cinematic Data Analysis with Python (using Pandas, Numpy and Matplotlib)</p>
+      <p>• Personal Portfolio (non-official) based on a predefined layout</p>
+    </td>
+    <td valign="middle" width="70%">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/lusalvi/lusalvi@main/assets/skills-dark.png?v=4" />
+        <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/lusalvi/lusalvi@main/assets/skills-light.png?v=4" />
+        <img src="https://cdn.jsdelivr.net/gh/lusalvi/lusalvi@main/assets/skills-light.png?v=4" alt="Skills - Lucía Salvi" width="100%">
+      </picture>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -30,13 +61,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=lusalvi&show_icons=true&theme=radical" alt="Lucía's GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lusalvi&theme=radical" alt="Lucía's GitHub Streak"/>
 </p>
-
----
-
-### 🎯 Goals
-- 🌐 Build user-friendly web apps.
-- 📈 Grow as a full-stack developer.
-- 💡 Contribute to open-source projects.
 
 ---
 
