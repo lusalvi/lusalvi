@@ -34,9 +34,9 @@
 </table>
 
 <!-- FILA 2 — TEXTO (izq) + SKILLS (imagen der) -->
-<table align="center" style="border-collapse: separate; border-spacing: 8px; width: 100%;">
+<table align="center" style="border-collapse: separate; border-spacing: 0px; width: 100%;">
   <tr>
-    <td valign="middle" width="30%" style="padding: 4px;">
+    <td valign="middle" width="40%" style="padding: 0px;">
       <h3>⚙️ My Projects</h3>
       <p>• Fleet Tracking System with vanilla HTML, CSS, JavaScript and using Google Maps API</p>
       <p>• Informational Website about endangered animals</p>
@@ -44,7 +44,7 @@
       <p>• Cinematic Data Analysis with Python (using Pandas, Numpy and Matplotlib)</p>
       <p>• Personal Portfolio (non-official) based on a predefined layout</p>
     </td>
-    <td valign="middle" width="70%">
+    <td valign="middle" width="60%">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/lusalvi/lusalvi@main/assets/skills-dark.png?v=4" />
         <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/lusalvi/lusalvi@main/assets/skills-light.png?v=4" />
