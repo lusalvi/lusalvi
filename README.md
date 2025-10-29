@@ -7,18 +7,12 @@
   </picture>
 </p>
 
-<!-- FILA 1 — INFO (imagen izq) + TEXTO (der) -->
-<table align="center" border="0" style="border:none!important; border-collapse: collapse; border-spacing: 0; width: 100%;">
-  <tr>
-    <td valign="middle" width="60%" style="border:none;">
-      <picture>
+<picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/lusalvi/lusalvi@main/assets/info-dark.png" />
         <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/lusalvi/lusalvi@main/assets/info-light.png" />
-        <img src="https://cdn.jsdelivr.net/gh/lusalvi/lusalvi@main/assets/info-light.png" alt="About me - Lucía Salvi" width="100%">
-      </picture>
-    </td>
-    <td valign="middle" width="40%" style="border:none; padding:0;">
-      <h3>👋 About Me</h3>
+        <img src="https://cdn.jsdelivr.net/gh/lusalvi/lusalvi@main/assets/info-light.png" align="left" alt="About me - Lucía Salvi" width="50%">
+</picture>
+<h3>👋 About Me</h3>
       <p>
         I’m the kind of developer who learns something new and immediately turns it into a project.
         Coffee lover ☕ and proud pop music enjoyer 🎧. 
@@ -29,32 +23,25 @@
         Big fan of writing, reading and baking 🎨.
         I enjoy the journey as much as the result 🚀
       </p>
-    </td>
-  </tr>
-</table>
 
-<!-- FILA 2 — TEXTO (izq) + SKILLS (imagen der) -->
-<table align="center" style="border-collapse: separate; border-spacing: 0px; width: 100%;">
-  <tr>
-    <td valign="middle" width="40%" style="padding: 0px;">
-      <h3>⚙️ My Projects</h3>
-      <ul>
-      <li>Fleet Tracking System with vanilla HTML, CSS, JavaScript and using Google Maps API</li>
-      <li>Informational Website about endangered animals</li>
-      <li>Promotional Website for a fictional client</li>
-      <li>Cinematic Data Analysis with Python (using Pandas, Numpy and Matplotlib)</li>
-      <li>Personal Portfolio (non-official) based on a predefined layout</li>
-      </ul>
-    </td>
-    <td valign="middle" width="60%">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/lusalvi/lusalvi@main/assets/skills-dark.png?v=4" />
-        <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/lusalvi/lusalvi@main/assets/skills-light.png?v=4" />
-        <img src="https://cdn.jsdelivr.net/gh/lusalvi/lusalvi@main/assets/skills-light.png?v=4" alt="Skills - Lucía Salvi" width="100%">
-      </picture>
-    </td>
-  </tr>
-</table>
+---      
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/lusalvi/lusalvi@main/assets/skills-dark.png" />
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/lusalvi/lusalvi@main/assets/skills-light.png" />
+  <img src="https://cdn.jsdelivr.net/gh/lusalvi/lusalvi@main/assets/skills-light.png"
+       align="right"
+       width="50%"
+       alt="Skills - Lucía Salvi" />
+</picture>
+<h3>⚙️ My Projects</h3>
+<ul>
+  <li>Fleet Tracking System with vanilla HTML, CSS, JavaScript and Google Maps API</li>
+  <li>Informational Website about endangered animals</li>
+  <li>Promotional Website for a fictional client</li>
+  <li>Cinematic Data Analysis with Python (Pandas, Numpy, Matplotlib)</li>
+  <li>Personal Portfolio based on a predefined layout</li>
+</ul>
 
 ---
 
