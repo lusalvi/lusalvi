@@ -1,10 +1,12 @@
 <!-- README.md -->
-
-<h1 align="center">Hi there, I'm Lu 👋</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&pause=1000&color=BB1AF7&center=true&vCenter=true&width=600&lines=Passionate+about+code;Lover+of+coffee%2C+music+%26+animals;Always+curious+%26+exploring+new+techs;Constantly+dissociating" alt="Typing SVG" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/lusalvi/lusalvi@main/banner-dark.png" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/lusalvi/lusalvi@main/banner-light.png" />
+    <img src="https://cdn.jsdelivr.net/gh/lusalvi/lusalvi@main/assets/presentation-light.png" alt="Header - Lucía Salvi" width="100%" />
+  </picture>
 </p>
+
 
 ---
 
