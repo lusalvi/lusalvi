@@ -1,12 +1,4 @@
 <!-- README.md -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/lusalvi/lusalvi@main/banner-dark.png" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/lusalvi/lusalvi@main/banner-light.png" />
-    <img src="https://cdn.jsdelivr.net/gh/lusalvi/lusalvi@main/assets/presentation-light.png" alt="Header - Lucía Salvi" width="100%" />
-  </picture>
-</p>
-
 
 ---
 
