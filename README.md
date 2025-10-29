@@ -38,11 +38,13 @@
   <tr>
     <td valign="middle" width="40%" style="padding: 0px;">
       <h3>⚙️ My Projects</h3>
-      <p>• Fleet Tracking System with vanilla HTML, CSS, JavaScript and using Google Maps API</p>
-      <p>• Informational Website about endangered animals</p>
-      <p>• Promotional Website for a fictional client</p>
-      <p>• Cinematic Data Analysis with Python (using Pandas, Numpy and Matplotlib)</p>
-      <p>• Personal Portfolio (non-official) based on a predefined layout</p>
+      <ul>
+      <li>Fleet Tracking System with vanilla HTML, CSS, JavaScript and using Google Maps API</li>
+      <li>Informational Website about endangered animals</li>
+      <li>Promotional Website for a fictional client</li>
+      <li>Cinematic Data Analysis with Python (using Pandas, Numpy and Matplotlib)</li>
+      <li>Personal Portfolio (non-official) based on a predefined layout</li>
+      </ul>
     </td>
     <td valign="middle" width="60%">
       <picture>
