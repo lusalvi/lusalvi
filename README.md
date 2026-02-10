@@ -20,7 +20,7 @@
 I'm a **Software Development student** with hands-on experience building **full-stack web applications**.
 
 I enjoy learning new technologies and turning them into real, working solutions.
-Coffee lover ☕, pop music enjoyer 🎧 and bug hunter by nature — even if fixing one creates five new ones 😌
+Coffee lover ☕, pop music enjoyer 🎧 and bug hunter by nature (even if fixing one creates five new ones 😌)
 
 I value **clean code**, good practices and collaborative work.
 I enjoy the journey as much as the final result 🚀
