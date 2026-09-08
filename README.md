@@ -1,40 +1,38 @@
 <!-- README.md -->
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/lusalvi/lusalvi@main/assets/banner-dark.png" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/lusalvi/lusalvi@main/assets/banner-light.png" />
-    <img alt="Header - Lucía Salvi" width="100%" />
-  </picture>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=800&color=39FF14&center=true&vCenter=true&width=435&lines=%24+whoami;Luc%C3%ADa+Salvi;%24+cat+role.txt;Software+Developer;%24+cd+Mendoza%2FArgentina" alt="Terminal typing animation" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/status-online-39FF14?style=flat-square&labelColor=000000" />
+  <img src="https://img.shields.io/badge/location-Mendoza%2C_Argentina-39FF14?style=flat-square&labelColor=000000" />
+  <img src="https://img.shields.io/badge/shell-zsh-39FF14?style=flat-square&labelColor=000000" />
 </p>
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/lusalvi/lusalvi@main/assets/info-dark.png" />
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/lusalvi/lusalvi@main/assets/info-light.png" />
-  <img align="right" width="45%" alt="About me" />
-</picture>
+```bash
+lucia@dev:~$ cat about.md
+```
 
-### ✨ About Me
-
-I'm a **Software Development student** with hands-on experience building **full-stack web applications**.
-
-I enjoy learning new technologies and turning them into real, working solutions.
-Coffee lover ☕, pop music enjoyer 🎧 and bug hunter by nature (even if fixing one creates five new ones 😌)
-
-I value **clean code**, good practices and collaborative work.
-I enjoy the journey as much as the final result 🚀
+> Estudiante de **Desarrollo de Software** con experiencia en el diseño e implementación de **aplicaciones web full-stack**, desde la definición de arquitectura hasta el despliegue.
+>
+> He trabajado en proyectos reales de distinto tamaño y contexto, los cuales me dieron experiencia enfrentando requerimientos concretos, trabajando en equipo y priorizando bajo restricciones reales.
+>
+> Me enfoco en escribir **código mantenible**, seguir buenas prácticas de desarrollo —aunque aún sigo aprendiendo— y comunicarme con claridad dentro de un equipo.
 
 ---
 
-### 🛠️ Tech Stack
+```bash
+lucia@dev:~$ ls tech-stack/ --group
+```
 
-**Languages**
+**Lenguajes**
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff"/>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff"/>
   <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff"/>
   <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=fff"/>
 </p>
 
@@ -53,6 +51,7 @@ I enjoy the journey as much as the final result 🚀
   <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=fff"/>
   <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=fff"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=fff"/>
 </p>
 
 **Mobile Development**
@@ -61,7 +60,7 @@ I enjoy the journey as much as the final result 🚀
   <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=fff"/>
 </p>
 
-**Databases**
+**Bases de Datos**
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff"/>
@@ -81,55 +80,86 @@ I enjoy the journey as much as the final result 🚀
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff"/>
 </p>
 
-**Tools & Workflow**
+**Herramientas y Flujo de Trabajo**
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff"/>
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff"/>
   <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/Thunder_Client-6C2DC7?logo=thunderclient&logoColor=fff"/>
   <img src="https://img.shields.io/badge/Netlify-014847?logo=netlify&logoColor=fff"/>
   <img src="https://img.shields.io/badge/Render-46E3B7?logo=render&logoColor=fff"/>
 </p>
 
 ---
 
-### 🚀 Featured Projects
+```bash
+lucia@dev:~$ ls -la proyectos/
+```
 
-- **Flight Reservation System** — Java Spring Boot  
-  - Designed RESTful APIs with DTOs for flight search and booking operations  
-  - Implemented persistence using JPA/Hibernate and MySQL following layered architecture  
-  - Applied object-oriented design and MVC principles  
+```
+drwxr-xr-x  TAHU/                    Laravel · React · Inertia.js
+drwxr-xr-x  FocusBot/                Python · Telegram Bot
+drwxr-xr-x  reservas-vuelos/         Java · Spring Boot
+drwxr-xr-x  seguimiento-flotas/      Full-Stack
+drwxr-xr-x  biblioteca-visual/       React · Node.js
+drwxr-xr-x  marketplace-libros/      HTML · CSS · JS
+drwxr-xr-x  analisis-cine/           Python · Pandas
+```
 
-- **Fleet Tracking System** — Full-Stack  
-  - Real-time vehicle tracking with Google Maps API  
-  - Frontend in HTML, CSS & JavaScript  
-  - Backend with Node.js & Express  
-  - Data persistence handled with Supabase  
+**`TAHU`** *(adaptación de Lara-collab)* — Laravel · React
+- Gestor de proyectos adaptado para el Hospital Universitario de la Universidad Nacional de Cuyo
+- Permite que los equipos organicen su trabajo en proyectos, los dividan en tareas y asignen personas
+- Seguimiento del avance en tiempo real mediante websockets
+- Stack: backend Laravel (PHP), frontend React con Inertia.js, UI Mantine, base de datos en MySQL
 
-- **Visual Personal Library** — React, Node.js / Express  
-  - Full-stack collaborative application for managing books and reviews  
-  - User authentication, REST API and complete CRUD  
-  - Supabase used for database and authentication  
+**`FocusBot`** — Python · Telegram Bot
+- Chatbot de Telegram para organizar tareas del día a día
+- Crea recordatorios con avisos automáticos
+- Muestra estadísticas de productividad
+- Sugiere el orden de prioridad de las tareas
 
-- **Used Books Marketplace** — HTML, CSS, JavaScript  
-  - Team-based platform for buying and selling used books  
-  - Supabase integrated as BaaS (database and auth)  
+**`reservas-vuelos`** — Java Spring Boot
+- Diseño de APIs RESTful con DTOs para búsqueda y reserva de vuelos
+- Persistencia implementada con JPA/Hibernate y MySQL siguiendo arquitectura en capas
+- Aplicación de diseño orientado a objetos y principios MVC
 
-- **Cinematic Data Analysis**  
-  - Data analysis using Python, Pandas, NumPy and Matplotlib  
+**`seguimiento-flotas`** — Full-Stack
+- Rastreo de vehículos en tiempo real con Google Maps API
+- Frontend en HTML, CSS y JavaScript
+- Backend con Node.js y Express
+- Persistencia de datos manejada con Supabase
+
+**`biblioteca-visual`** — React, Node.js / Express
+- Aplicación full-stack colaborativa para gestionar libros y reseñas
+- Autenticación de usuarios, API REST y CRUD completo
+- Supabase utilizado para base de datos y autenticación
+
+**`marketplace-libros`** — HTML, CSS, JavaScript
+- Plataforma en equipo para compra y venta de libros usados
+- Supabase integrado como BaaS (base de datos y autenticación)
+
+**`analisis-cine`**
+- Análisis de datos usando Python, Pandas, NumPy y Matplotlib
 
 ---
 
-### 📊 GitHub Stats
+```bash
+lucia@dev:~$ ./stats.sh --live
+```
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lusalvi&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lusalvi&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lusalvi&show_icons=true&theme=chartreuse-dark&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lusalvi&theme=chartreuse-dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/lusalvi/lusalvi/output/github-contribution-grid-snake.svg" alt="Snake animada recorriendo el historial de contribuciones" />
 </p>
 
 ---
 
-### 🤝 Let's Connect
+```bash
+lucia@dev:~$ cat contact.txt
+```
 
 <p align="center">
   <a href="mailto:laysalvi@gmail.com">
@@ -148,5 +178,5 @@ I enjoy the journey as much as the final result 🚀
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lusalvi&style=flat-square&color=4FC08D" />
+  <img src="https://komarev.com/ghpvc/?username=lusalvi&style=flat-square&color=39FF14&label=visitas" />
 </p>
