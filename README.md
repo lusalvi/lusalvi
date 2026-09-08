@@ -188,12 +188,7 @@ lucia@dev:~$ ./stats.sh
 ```
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=14&duration=400&pause=300&color=8B949E&center=true&vCenter=true&width=350&repeat=true&lines=cargando+estad%C3%ADsticas...;%5B%23%23--------%5D+20%25;%5B%23%23%23%23------%5D+40%25;%5B%23%23%23%23%23%23----%5D+60%25;%5B%23%23%23%23%23%23%23%23--%5D+80%25;%5B%23%23%23%23%23%23%23%23%23%23%5D+100%25" alt="Loading bar animation" />
-</p>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=lusalvi&show_icons=true&hide_border=true&title_color=FF4FD8&icon_color=FF4FD8&text_color=8B949E&bg_color=0D1117" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lusalvi&layout=compact&hide_border=true&title_color=FF4FD8&text_color=8B949E&bg_color=0D1117" />
+  <img src="https://raw.githubusercontent.com/lusalvi/github-stats-terminal-style/master/github_stats.svg" alt="Terminal stats card" />
 </p>
 
 <p align="center">
