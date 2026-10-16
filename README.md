@@ -1,184 +1,74 @@
 <!-- README.md -->
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=1000&color=FF4FD8&center=true&vCenter=true&width=500&lines=lucia%40dev%3A~%24+whoami;Luc%C3%ADa+Salvi;lucia%40dev%3A~%24+cat+role.txt;Software+Developer;lucia%40dev%3A~%24+echo+%24LOCATION;Mendoza%2C+Argentina" alt="Terminal typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=14&duration=2000&pause=800&color=CBA6F7&center=true&vCenter=true&width=520&lines=Iniciando+sesi%C3%B3n...;Bienvenida%2C+Luc%C3%ADa.;lucia%40dev%3A~%24+_" alt="Boot sequence" />
 </p>
 
----
+<br>
 
 ```bash
-lucia@dev:~$ cat about.md
+lucia@dev:~$ whoami
 ```
 ```text
-Estudiante de Desarrollo de Software con experiencia en el diseño e
-implementación de aplicaciones web full-stack, desde la definición
-de arquitectura hasta el despliegue.
-
-He trabajado en proyectos reales de distinto tamaño y contexto,
-enfrentando requerimientos concretos, trabajando en equipo y
-priorizando bajo restricciones reales.
-
-Me enfoco en escribir código mantenible, aplicar buenas prácticas
-de desarrollo y comunicarme con claridad dentro de un equipo.
-```
-
----
-
-```bash
-lucia@dev:~$ ls tech-stack/ -R
-```
-```text
-languages/
-├── JavaScript
-├── Python
-├── Java
-├── PHP
-└── C++
-
-frontend/
-├── HTML5
-├── CSS3
-├── Bootstrap
-├── Tailwind
-├── React
-└── Vue
-
-backend/
-├── Node.js
-├── Express
-├── Spring
-└── Laravel
-
-mobile/
-├── Flutter
-└── Dart
-
-databases/
-├── MySQL
-├── PostgreSQL
-└── MongoDB
-
-baas/
-├── Firebase
-└── Supabase
-
-devops/
-├── Docker
-├── AWS
-└── Kubernetes
-
-tools/
-├── Git
-├── GitHub
-├── Jira
-├── Netlify
-└── Render
+╭─────────────────────────────────────────────────────────╮
+│                                                         │
+│   Lucía Salvi                                           │
+│   Software Developer · Mendoza, Argentina               │
+│                                                         │
+│   Estudiante de Desarrollo de Software (ITU · UNCuyo)   │
+│   con experiencia real en proyectos full-stack —        │
+│   desde la arquitectura hasta el despliegue.            │
+│                                                         │
+│   Me importa el código mantenible, el diseño que        │
+│   tiene sentido y los equipos donde se comunica bien.   │
+│                                                         │
+╰─────────────────────────────────────────────────────────╯
 ```
 
 ---
 
 ```bash
-lucia@dev:~$ ls projects/
+lucia@dev:~$ cat skills.json
 ```
-```text
-TAHU/
-FocusBot/
-reservas-vuelos/
-seguimiento-flotas/
-biblioteca-visual/
-marketplace-libros/
-analisis-cine/
+```json
+{
+  "languages":  ["JavaScript", "Python", "Java", "PHP", "C++"],
+  "frontend":   ["React", "Vue", "Tailwind", "Bootstrap", "HTML5", "CSS3"],
+  "backend":    ["Node.js", "Express", "Laravel", "Spring Boot"],
+  "mobile":     ["Flutter", "Dart"],
+  "databases":  ["MySQL", "PostgreSQL", "MongoDB"],
+  "baas":       ["Firebase", "Supabase"],
+  "devops":     ["Docker", "AWS", "Kubernetes"],
+  "tools":      ["Git", "GitHub", "Jira", "Netlify", "Render"]
+}
 ```
+
+---
 
 ```bash
-lucia@dev:~$ cat projects/TAHU/README.md
+lucia@dev:~$ git log --oneline projects/
 ```
 ```text
-TAHU (adaptación de Lara-collab)
----------------------------------
-Gestor de proyectos adaptado para el Hospital Universitario
-de la Universidad Nacional de Cuyo.
+a1f3c2e  SiPro          — Gestor de proyectos para Hospital Universitario (UNCuyo)
+                           Laravel · React · Inertia.js · Mantine · MySQL
 
-Permite organizar proyectos, dividirlos en tareas, asignar
-responsables y hacer seguimiento del avance en tiempo real
-mediante WebSockets.
+b7d091a  FocusBot        — Chatbot de Telegram con recordatorios y estadísticas de productividad
+                           Python · Telegram Bot API
 
-stack: Laravel · React · Inertia.js · Mantine · MySQL
-```
+c3e84f1  reservas-vuelos — API RESTful para búsqueda y reserva de vuelos
+                           Java · Spring Boot · MySQL
 
-```bash
-lucia@dev:~$ cat projects/FocusBot/README.md
-```
-```text
-FocusBot
----------------------------------
-Chatbot de Telegram para organizar tareas del día a día.
+d92bc30  seguimiento-flotas — Rastreo de vehículos en tiempo real con Google Maps
+                           Node.js · Express · Supabase
 
-Incluye recordatorios automáticos, estadísticas de
-productividad y sugerencias de priorización de tareas.
+e51a7f8  biblioteca-visual  — App colaborativa para gestionar libros y reseñas
+                           React · Node.js · Supabase
 
-stack: Python · Telegram Bot API
-```
+f0d6e12  marketplace-libros — Plataforma de compra/venta de libros usados
+                           HTML · CSS · JavaScript · Supabase
 
-```bash
-lucia@dev:~$ cat projects/reservas-vuelos/README.md
-```
-```text
-reservas-vuelos
----------------------------------
-API RESTful para búsqueda y reserva de vuelos.
-
-DTOs, persistencia con JPA/Hibernate y MySQL, arquitectura
-en capas, diseño orientado a objetos.
-
-stack: Java · Spring Boot · MySQL
-```
-
-```bash
-lucia@dev:~$ cat projects/seguimiento-flotas/README.md
-```
-```text
-seguimiento-flotas
----------------------------------
-Sistema de seguimiento de vehículos en tiempo real
-utilizando Google Maps API.
-
-stack: HTML · CSS · JavaScript · Node.js · Express · Supabase
-```
-
-```bash
-lucia@dev:~$ cat projects/biblioteca-visual/README.md
-```
-```text
-biblioteca-visual
----------------------------------
-Aplicación full-stack colaborativa para gestionar libros
-y reseñas. Autenticación, API REST y CRUD completo.
-
-stack: React · Node.js · Supabase
-```
-
-```bash
-lucia@dev:~$ cat projects/marketplace-libros/README.md
-```
-```text
-marketplace-libros
----------------------------------
-Plataforma colaborativa para la compra y venta de libros
-usados.
-
-stack: HTML · CSS · JavaScript · Supabase
-```
-
-```bash
-lucia@dev:~$ cat projects/analisis-cine/README.md
-```
-```text
-analisis-cine
----------------------------------
-Proyecto de análisis de datos aplicado a información
-cinematográfica.
-
-stack: Python · Pandas · NumPy · Matplotlib
+g8c2d44  analisis-cine      — Análisis de datos cinematográficos
+                           Python · Pandas · NumPy · Matplotlib
 ```
 
 ---
@@ -192,7 +82,7 @@ lucia@dev:~$ ./stats.sh
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/lusalvi/lusalvi/output/github-contribution-grid-snake.svg" alt="Snake animada recorriendo el historial de contribuciones" />
+  <img src="https://raw.githubusercontent.com/lusalvi/lusalvi/output/github-contribution-grid-snake.svg" alt="Snake animada" />
 </p>
 
 ---
@@ -201,25 +91,17 @@ lucia@dev:~$ ./stats.sh
 lucia@dev:~$ cat contact.txt
 ```
 ```text
-email     → laysalvi@gmail.com
-linkedin  → lucia-yasmin-salvi
-github    → lusalvi
+email     →  laysalvi@gmail.com
+linkedin  →  linkedin.com/in/lucia-yasmin-salvi
+github    →  github.com/lusalvi
 ```
-
-<p align="center">
-  <a href="mailto:laysalvi@gmail.com">Email</a>
-  &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/lucia-yasmin-salvi/">LinkedIn</a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/lusalvi">GitHub</a>
-</p>
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&duration=1000&pause=600&color=FF4FD8&center=true&vCenter=true&width=250&repeat=true&lines=lucia%40dev%3A~%24+_" alt="Blinking cursor" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=800&pause=400&color=CBA6F7&center=true&vCenter=true&width=200&lines=lucia%40dev%3A~%24+_" alt="Cursor" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lusalvi&style=flat-square&color=FF4FD8&label=visitas" />
+  <img src="https://komarev.com/ghpvc/?username=lusalvi&style=flat-square&color=CBA6F7&label=visitas" />
 </p>
